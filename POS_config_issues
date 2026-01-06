@@ -1,0 +1,10 @@
+odoo session close error.
+------------------------------
+
+Missing required account on accountable line.
+
+
+res.company  model  the field should be set.
+
+account_default_pos_receivable_account_id
+
